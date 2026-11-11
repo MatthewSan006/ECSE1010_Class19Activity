@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This circuit uses one AND gate to demonstrate basic IC design.
 
 ## How to test
 
-Explain how to use your project
+Flip input switches 1 and 2 to the ON position to light up the output (LED).
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+No external hardware was used. 
